@@ -1,0 +1,226 @@
+[
+  {
+    "batch_number": 1,
+    "items_processed": 32,
+    "processing_time_ms": 1014,
+    "memory_mb": 92,
+    "worker_id": 7
+  },
+  {
+    "batch_number": 2,
+    "items_processed": 32,
+    "processing_time_ms": 1925,
+    "memory_mb": 92,
+    "worker_id": 3
+  },
+  {
+    "batch_number": 4,
+    "items_processed": 32,
+    "processing_time_ms": 2999,
+    "memory_mb": 92,
+    "worker_id": 1
+  },
+  {
+    "batch_number": 3,
+    "items_processed": 32,
+    "processing_time_ms": 4078,
+    "memory_mb": 92,
+    "worker_id": 0
+  },
+  {
+    "batch_number": 5,
+    "items_processed": 32,
+    "processing_time_ms": 5269,
+    "memory_mb": 92,
+    "worker_id": 2
+  },
+  {
+    "batch_number": 6,
+    "items_processed": 32,
+    "processing_time_ms": 6376,
+    "memory_mb": 92,
+    "worker_id": 5
+  },
+  {
+    "batch_number": 7,
+    "items_processed": 32,
+    "processing_time_ms": 7503,
+    "memory_mb": 92,
+    "worker_id": 4
+  },
+  {
+    "batch_number": 8,
+    "items_processed": 32,
+    "processing_time_ms": 8519,
+    "memory_mb": 92,
+    "worker_id": 6
+  },
+  {
+    "batch_number": 9,
+    "items_processed": 32,
+    "processing_time_ms": 8823,
+    "memory_mb": 92,
+    "worker_id": 7
+  },
+  {
+    "batch_number": 10,
+    "items_processed": 32,
+    "processing_time_ms": 9208,
+    "memory_mb": 92,
+    "worker_id": 3
+  },
+  {
+    "batch_number": 11,
+    "items_processed": 32,
+    "processing_time_ms": 9475,
+    "memory_mb": 92,
+    "worker_id": 1
+  },
+  {
+    "batch_number": 12,
+    "items_processed": 32,
+    "processing_time_ms": 9713,
+    "memory_mb": 92,
+    "worker_id": 0
+  },
+  {
+    "batch_number": 13,
+    "items_processed": 32,
+    "processing_time_ms": 9839,
+    "memory_mb": 92,
+    "worker_id": 2
+  },
+  {
+    "batch_number": 14,
+    "items_processed": 32,
+    "processing_time_ms": 10023,
+    "memory_mb": 92,
+    "worker_id": 5
+  },
+  {
+    "batch_number": 15,
+    "items_processed": 32,
+    "processing_time_ms": 10334,
+    "memory_mb": 92,
+    "worker_id": 4
+  },
+  {
+    "batch_number": 16,
+    "items_processed": 32,
+    "processing_time_ms": 10609,
+    "memory_mb": 92,
+    "worker_id": 6
+  },
+  {
+    "batch_number": 17,
+    "items_processed": 32,
+    "processing_time_ms": 10685,
+    "memory_mb": 92,
+    "worker_id": 7
+  },
+  {
+    "batch_number": 18,
+    "items_processed": 32,
+    "processing_time_ms": 10824,
+    "memory_mb": 92,
+    "worker_id": 3
+  },
+  {
+    "batch_number": 19,
+    "items_processed": 32,
+    "processing_time_ms": 10825,
+    "memory_mb": 92,
+    "worker_id": 1
+  },
+  {
+    "batch_number": 20,
+    "items_processed": 32,
+    "processing_time_ms": 10867,
+    "memory_mb": 92,
+    "worker_id": 0
+  },
+  {
+    "batch_number": 21,
+    "items_processed": 32,
+    "processing_time_ms": 10993,
+    "memory_mb": 92,
+    "worker_id": 2
+  },
+  {
+    "batch_number": 22,
+    "items_processed": 32,
+    "processing_time_ms": 11180,
+    "memory_mb": 92,
+    "worker_id": 5
+  },
+  {
+    "batch_number": 23,
+    "items_processed": 32,
+    "processing_time_ms": 11109,
+    "memory_mb": 92,
+    "worker_id": 4
+  },
+  {
+    "batch_number": 24,
+    "items_processed": 32,
+    "processing_time_ms": 11167,
+    "memory_mb": 92,
+    "worker_id": 6
+  },
+  {
+    "batch_number": 25,
+    "items_processed": 32,
+    "processing_time_ms": 11186,
+    "memory_mb": 92,
+    "worker_id": 7
+  },
+  {
+    "batch_number": 26,
+    "items_processed": 32,
+    "processing_time_ms": 11045,
+    "memory_mb": 92,
+    "worker_id": 3
+  },
+  {
+    "batch_number": 27,
+    "items_processed": 32,
+    "processing_time_ms": 11025,
+    "memory_mb": 92,
+    "worker_id": 1
+  },
+  {
+    "batch_number": 28,
+    "items_processed": 32,
+    "processing_time_ms": 11010,
+    "memory_mb": 92,
+    "worker_id": 0
+  },
+  {
+    "batch_number": 29,
+    "items_processed": 32,
+    "processing_time_ms": 10867,
+    "memory_mb": 92,
+    "worker_id": 2
+  },
+  {
+    "batch_number": 30,
+    "items_processed": 32,
+    "processing_time_ms": 10649,
+    "memory_mb": 92,
+    "worker_id": 5
+  },
+  {
+    "batch_number": 31,
+    "items_processed": 32,
+    "processing_time_ms": 10567,
+    "memory_mb": 92,
+    "worker_id": 4
+  },
+  {
+    "batch_number": 32,
+    "items_processed": 8,
+    "processing_time_ms": 9541,
+    "memory_mb": 92,
+    "worker_id": 6
+  }
+]
